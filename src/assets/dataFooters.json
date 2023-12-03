@@ -1,0 +1,26 @@
+[
+	{
+		"link": "https://www.facebook.com/",
+		"logo": "faFacebook"
+	},
+	{
+		"link": "https://twitter.com/",
+		"logo": "faXTwitter"
+	},
+	{
+		"link": "https://github.com/",
+		"logo": "faGithub"
+	},
+	{
+		"link": "https://www.linkedin.com/",
+		"logo": "faLinkedinIn"
+	},
+	{
+		"link": "https://www.instagram.com/",
+		"logo": "faInstagram"
+	},
+	{
+		"link": "https://www.snapchat.com/",
+		"logo": "faSnapchatGhost"
+	}
+]

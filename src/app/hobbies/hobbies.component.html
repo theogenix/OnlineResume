@@ -1,0 +1,18 @@
+<script
+  src="https://kit.fontawesome.com/310a48e43a.js"
+  crossorigin="anonymous"
+></script>
+<div class="hobbies-container">
+  <div class="flip-card" *ngFor="let item of hobbies; let i = index">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <h3>{{ item.title }}</h3>
+        <fa-icon [icon]=item.icon style="font-size: 5em"></fa-icon>
+      </div>
+      <div class="flip-card-back">
+        <p>{{ item.dates }}</p>
+        <p>{{ item.description }}</p>
+      </div>
+    </div>
+  </div>
+</div>

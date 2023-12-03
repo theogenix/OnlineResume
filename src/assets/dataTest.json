@@ -1,0 +1,190 @@
+[
+	{
+		"title": "Data Scientist",
+		"company": "Apple",
+		"location": "Paris",
+		"startDate": "2020-01-01",
+		"endDate": "2022-12-31",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "/assets/imagesEntreprise/apple.png"
+	},
+	{
+		"title": "Software Engineer",
+		"company": "Google",
+		"location": "Silicon",
+		"startDate": "2018-07-01",
+		"endDate": "2020-06-30",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "assets/imagesEntreprise/google.png"
+	},
+	{
+		"startDate": "2020-01-01",
+		"endDate": "2020-01-02",
+		"title": "Soft",
+		"company": "Apple",
+		"location": "Paris",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "/assets/imagesEntreprise/apple.png"
+	}
+]
+[
+	{
+		"school": "EPF",
+		"startDate": "2020-10-01",
+		"endDate": "2024-07-05",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "assets/imagesEcoles/EPF.png"
+	},
+	{
+		"school": "St Erembert",
+		"startDate": "2015-05-06",
+		"endDate": "2018-08-09",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat.  Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "assets/imagesEcoles/lyceeInter.png"
+	}
+]
+[
+	{
+		"title": "BasketBall",
+		"logo": "faBasketball",
+		"description": "Cras ullamcorper vehicula nunc, ut egestas quam aliquet in. In hac habitasse platea dictumst. Ut nulla arcu, sagittis id finibus ut, faucibus eu leo.",
+		"dates": "2021-2022"
+	},
+	{
+		"title": "Ping Pong",
+		"logo": "faTableTennis",
+		"description": "Cras ullamcorper vehicula nunc, ut egestas quam aliquet in. In hac habitasse platea dictumst. Ut nulla arcu, sagittis id finibus ut, faucibus eu leo.",
+		"dates": "Depuis 2019"
+	},
+	{
+		"title": "CryptoBro",
+		"logo": "faBitcoin",
+		"description": "Cras ullamcorper vehicula nunc, ut egestas quam aliquet in. In hac habitasse platea dictumst. Ut nulla arcu, sagittis id finibus ut, faucibus eu leo.",
+		"dates": "Depuis 2019"
+	},
+	{
+		"title": "Monteur Vidéo",
+		"logo": "faVideo",
+		"description": "Cras ullamcorper vehicula nunc, ut egestas quam aliquet in. In hac habitasse platea dictumst. Ut nulla arcu, sagittis id finibus ut, faucibus eu leo.",
+		"dates": "Depuis 2019"
+	},
+	{
+		"title": "Astronomie",
+		"logo": "faShuttleSpace",
+		"description": "Cras ullamcorper vehicula nunc, ut egestas quam aliquet in. In hac habitasse platea dictumst. Ut nulla arcu, sagittis id finibus ut, faucibus eu leo.",
+		"dates": "Depuis 2019"
+	},
+	{
+		"title": "Piscine",
+		"logo": "faPersonSwimming",
+		"description": "Cras ullamcorper vehicula nunc, ut egestas quam aliquet in. In hac habitasse platea dictumst. Ut nulla arcu, sagittis id finibus ut, faucibus eu leo.",
+		"dates": "Depuis 2019"
+	}
+]
+[
+    {
+        "link": "https://www.facebook.com/",
+        "logo": "faFacebook"
+    },
+    {
+        "link": "https://twitter.com/",
+        "logo": "faXTwitter"
+    },
+    {
+        "link": "https://github.com/",
+        "logo": "faGithub"
+    },
+    {
+        "link": "https://www.linkedin.com/",
+        "logo": "faLinkedinIn"
+    },
+    {
+        "link": "https://www.instagram.com/",
+        "logo": "faInstagram"
+    },
+    {
+        "link": "https://www.snapchat.com/",
+        "logo": "faSnapchatGhost"
+    }
+]
+[
+	{
+		"name": "cryptoBro",
+		"title": "Software Engineer",
+		"objective": "Looking for a 6 months Engineering training for graduation from beg of February 2024 in the fieldof Digital, Software/Mobile/Web development, Data to build-up experience in Engineering and inan international environment.",
+		"logoUrl": "assets/cryptoBro.jpg",
+		"pdfPath": "assets/ReleaseNotes_Chapalain_Fresson_Genix_Zaborov.pdf",
+		"recommendations": [
+			{
+				"author": "Theo G",
+				"position": "CTO, Tech Co.",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero."
+			},
+			{
+				"author": "Jane Smith",
+				"position": "Senior Developer, Web Solutions",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero."
+			}
+		]
+	}
+]
+[
+    {
+        "label":"programmingLanguages",
+        "title": "HTML",
+        "logo":"faHtml5"
+    },
+    {
+        "label":"programmingLanguages",
+        "title": "Java",
+        "logo":"faJava"     
+    },   
+    
+    {
+        "label":"programmingLanguages",
+        "title": "JavaScript",
+        "logo":"faJs"        
+    },
+    {
+        "label":"programmingLanguages",
+        "title": "Python",
+        "logo":"faPython"        
+    },
+    {
+        "label":"programmingLanguages",
+        "title": "React",
+        "logo":"faReact"        
+    },
+        
+    {
+        "label":"packOffice",
+        "title": "Word",
+        "logo":"faFileWord"        
+     },
+     {
+         "label":"packOffice",
+         "title": "Excel",
+         "logo":"faFileExcel"        
+     },
+     {
+         "label":"packOffice",
+         "title": "PowerPoint",
+         "logo":"faFilePowerpoint"        
+     },
+     {
+         "label":"languages",
+         "title": "French",
+         "logo":"faLanguage"        
+     },
+     {
+        "label":"languages",
+         "title": "English",
+         "logo":"faEarthEurope"        
+     },
+     {
+        "label":"languages",
+         "title": "Spanish",
+         "logo":"faEarthEurope"        
+     }
+ 
+]

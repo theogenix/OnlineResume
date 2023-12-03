@@ -1,0 +1,21 @@
+[
+	{
+		"name": "cryptoBro",
+		"title": "Software Engineer",
+		"objective": "Looking for a 6 months Engineering training for graduation from beg of February 2024 in the fieldof Digital, Software/Mobile/Web development, Data to build-up experience in Engineering and inan international environment.",
+		"logoUrl": "assets/cryptoBro.jpg",
+		"pdfPath": "assets/ReleaseNotes_Chapalain_Fresson_Genix_Zaborov.pdf",
+		"recommendations": [
+			{
+				"author": "Theo G",
+				"position": "CTO, Tech Co.",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero."
+			},
+			{
+				"author": "Jane Smith",
+				"position": "Senior Developer, Web Solutions",
+				"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero."
+			}
+		]
+	}
+]

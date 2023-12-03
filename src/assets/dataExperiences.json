@@ -1,0 +1,29 @@
+[
+	{
+		"title": "Data Scientist",
+		"company": "Apple",
+		"location": "Paris",
+		"startDate": "2020-01-01",
+		"endDate": "2022-12-31",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "/assets/imagesEntreprise/apple.png"
+	},
+	{
+		"title": "Software Engineer",
+		"company": "Google",
+		"location": "Silicon",
+		"startDate": "2018-07-01",
+		"endDate": "2020-06-30",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "assets/imagesEntreprise/google.png"
+	},
+	{
+		"startDate": "2020-01-01",
+		"endDate": "2020-01-02",
+		"title": "Soft",
+		"company": "Apple",
+		"location": "Paris",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt nulla et mi egestas, id porta tellus tristique. Donec vitae risus consectetur, facilisis velit nec, accumsan arcu. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis ligula eget magna ornare rutrum. Quisque at dui ut ipsum finibus blandit. Suspendisse non diam mauris. Nam tristique arcu in velit auctor venenatis. Curabitur sollicitudin fermentum enim ac feugiat. Mauris feugiat augue quam, quis pretium dolor sollicitudin eu. Nunc sit amet posuere ex, non auctor libero.",
+		"logoUrl": "/assets/imagesEntreprise/apple.png"
+	}
+]

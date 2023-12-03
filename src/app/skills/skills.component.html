@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Compétences</title>
+    <script
+      src="https://kit.fontawesome.com/310a48e43a.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="grid grid-cols-3 text-white pt-5">
+      <ng-container *ngFor="let item of skills">
+        <div
+          class="flex-col items-center justify-center"
+          *ngIf="shouldDisplay(item.label)"
+        >
+          <div
+            class="h-14 bg-gradient-to-r from-purple-500 to-pink-500 flex items-center justify-center padding pt-3"
+          >
+            <h1 class="text-white">{{ item.label }}</h1>
+          </div>
+          <ng-container *ngFor="let subItem of skills">
+            <div
+              class="flex flex-col items-center justify-center pt-5"
+              *ngIf="subItem.label === item.label"
+            >
+              {{ subItem.title }}
+              <fa-icon [icon]="subItem.icon" style="font-size: 2em"></fa-icon>
+              <br />
+            </div>
+          </ng-container>
+        </div>
+      </ng-container>
+    </div>
+  </body>
+</html>
